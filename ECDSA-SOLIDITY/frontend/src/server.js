@@ -1,6 +1,6 @@
 import { ethers } from 'ethers';
 
-const CONTRACT_ADDRESS = "0x5FbDB2315678afecb367f032d93F642f64180aa3"; // Replace with actual address
+const CONTRACT_ADDRESS = "Your address";
 const EXPECTED_CHAIN_ID = 31337;
 
 const CONTRACT_ABI = [
